@@ -21,8 +21,6 @@
 
 ![Snake animation](https://github.com/tkronost/tkronost/blob/output/github-contribution-grid-snake.svg)
 
-
-
 </div>
 
 <!-- - 🔭 I’m currently working on ...
