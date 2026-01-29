@@ -1,4 +1,4 @@
-### Hola! Mi nombre es Ana_Sol y estoy interesada en crear una red de contáctos para compartir información, soluciones y aportes a través de GitHub.
+### Hola! Mi nombre es Ana_Sol y he creado este canal para compartir contenido relativo a lenguajes de programación, frameworks y proyectos. Bienvenidos!
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tkronost&show_icons=true&theme=dracula"/>
