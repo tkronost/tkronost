@@ -10,6 +10,9 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tkronost&show_icons=true&theme=dracula"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula"/>
 </p>-->
+<p>
+  <img height="200em" src="https://streak-stats.demolab.com/?user=tkronost"/>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tkronost)](https://git.io/streak-stats)
 
