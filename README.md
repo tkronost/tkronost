@@ -7,9 +7,10 @@
 </div>-->
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats-6gkxj8zbd-tkronosts-projects.vercel.app/api?username=tkronost&show_icons=true&theme=dracula&cache_seconds=1800&&v=20260201"/>
-<img height="200em" src="https://github-readme-stats-6gkxj8zbd-tkronosts-projects.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula&cache_seconds=1800&&v=20260201"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tkronost&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula"/>
 </p>
+
 
 
 
