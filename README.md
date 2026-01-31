@@ -6,12 +6,10 @@
 <img height="200em" src="https://github-readme-stats-6gkxj8zbd-tkronosts-projects.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula&cache_seconds=1800&&v=20260201"/>
 </div>-->
 
-<!--<p align="center">
+<p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tkronost&show_icons=true&theme=dracula"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula"/>
-</p>-->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tkronost)](https://git.io/streak-stats)
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
