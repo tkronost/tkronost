@@ -2,9 +2,9 @@
 
 <div align="center">
   <img height="200"
-       src="https://github-readme-stats-tkronost.vercel.app/api?username=tkronost&show_icons=true&theme=dracula&cache_seconds=21600" />
+       src="https://github-readme-stats-ewh5ativy-tkronosts-projects.vercel.app&show_icons=true&theme=dracula&cache_seconds=21600" />
   <img height="200"
-       src="https://github-readme-stats-tkronost.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula&cache_seconds=21600" />
+       src="https://github-readme-stats-ewh5ativy-tkronosts-projects.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula&cache_seconds=21600" />
 </div>
 
 <div style="display: inline_block"><br>
