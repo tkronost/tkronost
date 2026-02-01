@@ -1,10 +1,10 @@
 ### Hola! Mi nombre es Ana_Sol y he creado este canal para compartir contenido relativo a lenguajes de programación, frameworks y proyectos. Bienvenidos!
 
 
-<div align="center">
+<!--<div align="center">
 <img height="200em" src="https://github-readme-stats-6gkxj8zbd-tkronosts-projects.vercel.app/api?username=tkronost&show_icons=true&theme=dracula&cache_seconds=1800&v=&v=20260201"/>
 <img height="200em" src="https://github-readme-stats-6gkxj8zbd-tkronosts-projects.vercel.app/api/top-langs/?username=tkronost&layout=compact&theme=dracula&cache_seconds=1800&&v=20260201"/>
-</div>
+</div>-->
 
 <!--<p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tkronost&show_icons=true&theme=dracula"/>
